@@ -1,0 +1,54 @@
+.table{
+    padding: 10px;
+    padding-top: 50;
+    width: 50%;
+    font-size: 15px;
+}
+
+.table2{
+    padding: 100px;
+    background-color: rgb(181, 196, 226);
+}
+
+.report-button {
+    background-color: #248a60;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.report-button:hover {
+    background-color: #0056b3;
+}
+
+
+.patients-table-container {
+    margin: 20px;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .search-input::placeholder {
+    color: #999;
+  }
+  
+  .search-input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
